@@ -1,0 +1,25 @@
+<nav
+  class="border-4 bg-white border-purple-400 p-4 w-full lg:w-auto lg:max-w-xs max-h-full"
+>
+  <ul>
+    {{ $title := lower .Title }} {{ $section := lower .Section }}
+    <li>
+      <a href="{{ .Site.BaseURL }}">~/home</a>
+    </li>
+    {{ range .Site.Menus.main }} {{ $name := lower .Name }}
+    <li>
+      <a href="{{ .URL }}">~/{{ lower .Name }}</a>
+    </li>
+    {{end}}
+  </ul>
+  <br /><a href="https://corteximplant.com/@coopyey" target="_blank"><img src="/images/addmeoncorteximplant.gif" alt="corteximplant" /></a>
+  <a href="mailto:contact@coopyey.gay"><img src="/images/emailgif.gif" alt="email" /></a>
+  <a href="https://obeythesystem.com/" target="_blank"><img src="/images/hackersinmypc.gif" alt="obeythesystem" /></a>
+  <img src="/images/fuckai.gif" alt="fuckai" />
+  <img src="/images/fckafd.gif" alt="fckafd" />
+  <img src="/images/bartmoss.png" alt="bartmoss" />
+  <img src="/images/homicide.gif" alt="homicide" />
+  <img src="/images/drpepper.gif" alt="drpepper" />
+  <img src="/images/fastweb.gif" alt="fastweb" />
+</p>
+</nav>

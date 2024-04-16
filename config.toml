@@ -1,0 +1,14 @@
+baseURL = 'https://coopyey.gay'
+languageCode = 'en-us'
+title = 'coops corner'
+theme = "cyberscape"
+
+# Enable this for tailwind in markdown files
+[markup.goldmark.renderer]
+unsafe=true
+
+# Add menu links to things from /content/ here (eg. markdown.md)
+[[menu.main]]
+name = "ttrpg"
+url = "/ttrpg-campaigns/"
+weight = 1

@@ -2,21 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>coops corner</title>
-    <link>https://coopyey.gay/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on coops corner</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://coopyey.gay/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://coopyey.gay/ttrpg-campaigns/</link>
+      <link>http://localhost:1313/ttrpg-campaigns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://coopyey.gay/ttrpg-campaigns/</guid>
-      <description>This page is a place for me to log my currently active campaigns (and maybe also throw shoutouts to my friends along the way).
-I keep a Quartz page with my campaign notes here.
-Active Campaigns Danse Macabre System: Dungeons &amp;amp; Dragons 5E -&amp;gt; Pathfinder 2E DM: Alan Start Date: January 22, 2023 Character: Arythas Ialdethish; Silver Dragon Battle Oracle
-Gatewalkers System: Pathfinder 2E (Adventure Path) DM: Alan Start Date: May 20, 2023 Character: Killian; Toy Poppet Betrayal Warlock (homebrew)</description>
+      <guid>http://localhost:1313/ttrpg-campaigns/</guid>
+      <description>This page is a place for me to log my currently active campaigns (and maybe also throw shoutouts to my friends along the way).&#xA;I keep a Quartz page with my campaign notes here.&#xA;Active Campaigns Danse Macabre System: Dungeons &amp;amp; Dragons 5E -&amp;gt; Pathfinder 2E DM: Alan Start Date: January 22, 2023 Character: Arythas Ialdethish; Silver Dragon Battle Oracle&#xA;Gatewalkers System: Pathfinder 2E (Adventure Path) DM: Alan Start Date: May 20, 2023 Character: Killian; Toy Poppet Betrayal Warlock (homebrew)</description>
     </item>
-    
   </channel>
 </rss>

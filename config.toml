@@ -12,3 +12,8 @@ unsafe=true
 name = "ttrpg"
 url = "/ttrpg-campaigns/"
 weight = 1
+
+[[menu.main]]
+name = "plants"
+url = "/plants/"
+weight = 1

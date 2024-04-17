@@ -877,7 +877,7 @@ h3 > a:hover {
   }
 
   .lg\:w-auto {
-    width: 20%;
+    width: auto;
   }
 
   .lg\:max-w-xs {

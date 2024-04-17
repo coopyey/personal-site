@@ -642,11 +642,11 @@ video {
 }
 
 .bg-\[url\(\'\/images\/coopyey\.gif\'\)\] {
-  background-image: url('../images/coopyey.gif');
+  background-image: url('./images/coopyey.gif');
 }
 
 .bg-\[url\(\'\/images\/aquagalaxy\.gif\'\)\] {
-  background-image: url('../images/aquagalaxy.gif');
+  background-image: url('./images/aquagalaxy.gif');
 }
 
 .p-16 {

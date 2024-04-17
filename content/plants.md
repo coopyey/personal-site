@@ -109,25 +109,25 @@ I currently have four cells that I am attempting to germinate. Three of four cel
 
 ## Catnip
 **Latin Name:** *Nepeta cataria* \
-**Planted:** April 17, 2023 \
+**Planted:** April 17, 2024 \
 **Type:** Soil sow in grow tray on heating pad \
 I currently have one cell that I am attempting to germinate. I hope the kitties appreciate all that I do for them. 😭
 
 ## Chocolate Mint
 **Latin Name:** *Mentha piperita* \
-**Planted:** April 17, 2023 \
+**Planted:** April 17, 2024 \
 **Type:** Cutting in water, to be moved to soil once rooted \
 I currently have one cutting that I am attempting to sprout. This is for a buddy of mine who loves mint as much as I do. :>
 
 ## Anise Hyssop
 **Latin Name:** *Agastache foeniculum* \
-**Planted:** April 17, 2023 \
+**Planted:** April 17, 2024 \
 **Type:** Soil sow in grow tray on heating pad \
 Part of the mint family! I currently have two cells that I am attempting to germinate. I plan to keep one plant for myself, and take the second plant up to a friend of mine. :D
 
 ## Korean Licorice Mint
 **Latin Name:** *Agastache rugosa* \
-**Planted:** April 17, 2023 \
+**Planted:** April 17, 2024 \
 **Type:** Soil sow in grow tray on heating pad \
 Part of the mint family! I currently have two cells that I am attempting to germinate. I plan to keep one plant for myself, and take the second plant up to a friend of mine. :D
 

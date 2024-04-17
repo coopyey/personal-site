@@ -16,7 +16,7 @@
   /* 2 */
   border-style: solid;
   /* 2 */
-  border-color: #e5e7eb;
+  border-color: #00ff15;
   /* 2 */
 }
 
@@ -877,7 +877,7 @@ h3 > a:hover {
   }
 
   .lg\:w-auto {
-    width: 13%;
+    width: 7rem;
   }
 
   .lg\:max-w-xs {

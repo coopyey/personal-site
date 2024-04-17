@@ -236,6 +236,6 @@ Valerian is a plant that I've seen without know what I was looking at, and I'm r
 **Type:** Perennial \
 **Potted:** January 2024 \
 **Pot:** 6" nursery pot \
-**This plant is toxic to cats, dogs, and horses, an can aggrevate hayfever in some individuals. This plant can also easily become invasive,** so if you wish to grow it please check your state or country's department of agriculture to ensure they are not considereed a noxious weed or otherwise need quarantine.
+**This plant is toxic to cats, dogs, and horses, an can aggravate hayfever in some individuals. This plant can also easily become invasive,** so if you wish to grow it please check your state or country's department of agriculture to ensure they are not considereed a noxious weed or otherwise need quarantine.
 
 This plant is more slow-growing than the others I have potted, but it started doing *very* well once I switched to the plant shelves and swapped out my grow lights. I wonder if it wasn't quite getting enough light in the old setup because I had to adjust the light height based on the taller plants. The leaves on it are all very cute and I'm very happy with it thus far!

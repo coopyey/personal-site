@@ -642,7 +642,7 @@ video {
 }
 
 .bg-\[url\(\'\/images\/coopyey\.gif\'\)\] {
-  background-image: url('./images/coopyey.gif');
+  background-image: url('coopyey.github.io/public/images/coopyey.gif');
 }
 
 .bg-\[url\(\'\/images\/aquagalaxy\.gif\'\)\] {

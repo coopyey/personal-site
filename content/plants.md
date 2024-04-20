@@ -97,15 +97,16 @@ These are the plants I have sown seeds for that I'm attempting to sprout. :> I a
 ## St. John's Wort
 **Latin Name:** *Hypericum perforatum* \
 **Planted:** April 7, 2024 \
+**Sprouted:** April 20, 2024 \
 **Type:** Soil sow in grow tray on heating pad \
-I currently have four cells I am attempting to germinate. I have attempted these in the past and have not had luck with them, but we do not get anywhere by giving up! This is my second attempt at these. These plants are said to have great medicinal properties, so I'd love to get these sprouted and growing, but they are finicky with temperature and soil moisture. I have previously attempted to sow these hydroponically but struggled to keep the water at a high enough tempreature to encourage germination, so I have switched to soil sowing in a self-watering grow tray. 
+I currently have four cells I am attempting to germinate. I have attempted these in the past and have not had luck with them, but we do not get anywhere by giving up! This is my second attempt at these and it's paid off. :> As of time of publishing, I have one cell that has a sprout.
 
 ## Edible Chrysanthemum (Tong Hao)
 **Latin Name:** *Chrysanthemum coronarium* -> *Glebionis coronaria* \
 **Planted:** April 13, 2024 \
 **Sprouted:** April 16, 2024 \
 **Type:** Soil sow in grow tray on heating pad \
-I currently have four cells that I am attempting to germinate. Three of four cells have cotyledons popping up and are flourishing! I have a friend who will likely take at least one of these plants once large enough. :>
+I currently have four cells that I am attempting to germinate. Three of four cells have cotyledons popping up and are flourishing! I have a friend who will likely take at least one of these plants once large enough. :> All of the seeds are sprouting and I'm having to keep pulling out extra sprouts to ensure hardy young plants - a problem I've never had before! I am <i>super</i> excited for these.
 
 ## Catnip
 **Latin Name:** *Nepeta cataria* \

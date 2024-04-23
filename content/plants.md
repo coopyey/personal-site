@@ -184,7 +184,7 @@ I have three cells of these I am attempting to sprout. Very dark, black tomatoes
 **Planted:** 4/20/2024 🌿 \
 **Sprouted:** 4/22/2024 \
 **Type:** Soil sow in a grow tray on heating pad \
-I currently have 4 cells of these, two of which have sprouted at time of publishing. These were the gift seeds from Rare Seeds for ordering >$10 on an order, and I was so delighted to see these as I had considered ordering these as well as everything else. The flavor of this radish is said to be close to that of wasabi or horseradish root.
+I currently have 4 cells of these, all which have sprouted at time of publishing. These were the gift seeds from Rare Seeds for ordering >$10 on an order, and I was so delighted to see these as I had considered ordering these as well as everything else. The flavor of this radish is said to be close to that of wasabi or horseradish root.
 
 <!-- POTTED SECTION -->
 # Potted Plants

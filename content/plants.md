@@ -133,7 +133,7 @@ Part of the mint family! I currently have two cells that I am attempting to germ
 **Type:** Soil sow in grow tray on heating pad \
 Part of the mint family! I currently have two cells that I am attempting to germinate. I plan to keep one plant for myself, and take the second plant up to a friend of mine. :D
 
-## Komatsuna Seeeds, Spinach Mustard "Old Tokyo"
+## Komatsuna, Spinach Mustard "Old Tokyo"
 **Latin Name:** *Brassica rapa var perviridis* \
 **Planted:** 4/20/2024 🌿 \
 **Sprouted:** 4/22/2024 \

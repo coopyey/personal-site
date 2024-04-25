@@ -124,6 +124,7 @@ I currently have one cutting that I am attempting to sprout. This is for a buddy
 ## Anise Hyssop
 **Latin Name:** *Agastache foeniculum* \
 **Planted:** April 17, 2024 \
+**Sprouted:** April 25, 2024 \
 **Type:** Soil sow in grow tray on heating pad \
 Part of the mint family! I currently have two cells that I am attempting to germinate. I plan to keep one plant for myself, and take the second plant up to a friend of mine. :D
 

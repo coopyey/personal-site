@@ -136,54 +136,56 @@ Part of the mint family! I currently have two cells that I am attempting to germ
 
 ## Komatsuna, Spinach Mustard "Old Tokyo"
 **Latin Name:** *Brassica rapa var perviridis* \
-**Planted:** 4/20/2024 🌿 \
-**Sprouted:** 4/22/2024 \
+**Planted:** April 20, 2024 🌿 \
+**Sprouted:** April 22, 2024 \
 **Type:** Soil sow in a grow tray on heating pad \
 A member of the brassica family (cabbages and mustards), this was one of those plants that just sort of caught my eye. I currently have one cell that I am attempting to sprout and grow since I'm not sure what to really expect with this plant. A food veggie that I really just wanted to grow and try out. Depending on the size of the leaves, I hope toa dd this to salads. :>
 
 ## Mizuna, 605 Summer
 **Latin Name:** *Brassica nipposinica* \
-**Planted:** 4/20/2024 🌿 \
-**Sprouted:** 4/22/2024 \
+**Planted:** April 20, 2024 🌿 \
+**Sprouted:** April 22, 2024 \
 **Type:** Soil sow in a grow tray on heating pad \
 Another interesting green that I found while browsing the Rare Seeds website. I have two cells that I am attempting to grow so that I have plenty of greens to make salads out of this year. :D This variety is intended to be more water and crisp, perfect for eating in the hot summer!
 
 ## Mizuna, Japanese Pink
 **Latin Name:** *Brassica juncea* \
-**Planted:** 4/20/2024 🌿 \
-**Sprouted:** 4/22/2024 \
+**Planted:** April 20, 2024 🌿 \
+**Sprouted:** April 22, 2024 \
 **Type:** Soil sow in a grow tray on heating pad \
 I found this alongside the 605 seeds. I have two cells that I'm attempting to grow so that I have plenty of greens to make salads out of this year. :D This variety has plenty of antioxidants and is a so-called "superfood".
 
 ## Arugula, Red Dragon
 **Latin Name:** *Eruca sativa* \
-**Planted:** 4/20/2024 🌿 \
-**Sprouted:** 4/22/2024 \
+**Planted:** April 20, 2024 🌿 \
+**Sprouted:** April 22, 2024 \
 **Type:** Soil sow in a grow tray on heating pad \
 Arugula (rocket, for the Brits) is just my favorite green of all time. I have one cell that I am growing so that I can throw it into my salads. While the others I have multiple plants of so that I can share with my parents, I am the only one in the house that likes arugula so this one's all mine. :> This particular variety has dramatic lobed leaves like an oak leaf, with a splash of very pretty crimson color.
 
 ## Sweet Pepper, Shishito
 **Latin Name:** *Capsicum annuum* \
-**Planted:** 4/20/2024 🌿 \
+**Planted:** April 20, 2024 🌿 \
+**Sprouted:** April 25, 2024 \
 **Type:** Soil sow in a grow tray on heating pad \
 A Japanese variety of peppers that are typically sweeter and very mildly spicy. I have two cells that I am currently trying to sprout.
 
 ## Lemon Balm, Limoncello
 **Latin Name:** *Melissa officinalis Limoncello* \
-**Planted:** 4/20/2024 🌿 \
+**Planted:** April 20, 2024 🌿 \
 **Type:** Soil sow in a grow tray on heating pad \
 A lemon balm with even more lemon scent and flavor than other varieties. I have one cell that I'm currently trying to sprout. I mostly got this one just because lemon is my favorite fruit and I wanted a plant that smells like lemon, hah.
 
 ## Black Beauty Tomatoes
 **Latin Name:** *Solanum lycopersicum* \
-**Planted:** 4/20/2024 🌿 \
+**Planted:** April 20, 2024 🌿 \
+**Sprouted:** April 25, 2024 \
 **Type:** Soil sow in a grow tray on heating pad \
 I have three cells of these I am attempting to sprout. Very dark, black tomatoes that are supposed to taste absolutely amazing. I'm hoping to get these large enough to get put outside before the summer hits too hard, and then baby them through the hot summer to get some mighty delicious tomatoes. (Tomatoes are prolific where I live, so three plants will be far too many - I'm hoping to produce enough to give tomatoes to my friends as well. :>)
 
 ## Radish, Japanese Wasabi
 **Latin Name:** *Raphanus sativus* \
-**Planted:** 4/20/2024 🌿 \
-**Sprouted:** 4/22/2024 \
+**Planted:** April 20, 2024 🌿 \
+**Sprouted:** April 22, 2024 \
 **Type:** Soil sow in a grow tray on heating pad \
 I currently have 4 cells of these, all which have sprouted at time of publishing. These were the gift seeds from Rare Seeds for ordering >$10 on an order, and I was so delighted to see these as I had considered ordering these as well as everything else. The flavor of this radish is said to be close to that of wasabi or horseradish root.
 

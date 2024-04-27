@@ -112,6 +112,7 @@ I currently have four cells that I am attempting to germinate. Three of four cel
 ## Catnip
 **Latin Name:** *Nepeta cataria* \
 **Planted:** April 17, 2024 \
+**Sprouted:** April 26, 2024 \
 **Type:** Soil sow in grow tray on heating pad \
 I currently have one cell that I am attempting to germinate. I hope the kitties appreciate all that I do for them. 😭
 
@@ -131,29 +132,9 @@ Part of the mint family! I currently have two cells that I am attempting to germ
 ## Korean Licorice Mint
 **Latin Name:** *Agastache rugosa* \
 **Planted:** April 17, 2024 \
+**Sprouted:** April 26, 2024 \
 **Type:** Soil sow in grow tray on heating pad \
 Part of the mint family! I currently have two cells that I am attempting to germinate. I plan to keep one plant for myself, and take the second plant up to a friend of mine. :D
-
-## Komatsuna, Spinach Mustard "Old Tokyo"
-**Latin Name:** *Brassica rapa var perviridis* \
-**Planted:** April 20, 2024 🌿 \
-**Sprouted:** April 22, 2024 \
-**Type:** Soil sow in a grow tray on heating pad \
-A member of the brassica family (cabbages and mustards), this was one of those plants that just sort of caught my eye. I currently have one cell that I am attempting to sprout and grow since I'm not sure what to really expect with this plant. A food veggie that I really just wanted to grow and try out. Depending on the size of the leaves, I hope toa dd this to salads. :>
-
-## Mizuna, 605 Summer
-**Latin Name:** *Brassica nipposinica* \
-**Planted:** April 20, 2024 🌿 \
-**Sprouted:** April 22, 2024 \
-**Type:** Soil sow in a grow tray on heating pad \
-Another interesting green that I found while browsing the Rare Seeds website. I have two cells that I am attempting to grow so that I have plenty of greens to make salads out of this year. :D This variety is intended to be more water and crisp, perfect for eating in the hot summer!
-
-## Mizuna, Japanese Pink
-**Latin Name:** *Brassica juncea* \
-**Planted:** April 20, 2024 🌿 \
-**Sprouted:** April 22, 2024 \
-**Type:** Soil sow in a grow tray on heating pad \
-I found this alongside the 605 seeds. I have two cells that I'm attempting to grow so that I have plenty of greens to make salads out of this year. :D This variety has plenty of antioxidants and is a so-called "superfood".
 
 ## Arugula, Red Dragon
 **Latin Name:** *Eruca sativa* \
@@ -165,7 +146,7 @@ Arugula (rocket, for the Brits) is just my favorite green of all time. I have on
 ## Sweet Pepper, Shishito
 **Latin Name:** *Capsicum annuum* \
 **Planted:** April 20, 2024 🌿 \
-**Sprouted:** April 25, 2024 \
+**Sprouted:** April 26, 2024 \
 **Type:** Soil sow in a grow tray on heating pad \
 A Japanese variety of peppers that are typically sweeter and very mildly spicy. I have two cells that I am currently trying to sprout.
 
@@ -181,13 +162,6 @@ A lemon balm with even more lemon scent and flavor than other varieties. I have 
 **Sprouted:** April 25, 2024 \
 **Type:** Soil sow in a grow tray on heating pad \
 I have three cells of these I am attempting to sprout. Very dark, black tomatoes that are supposed to taste absolutely amazing. I'm hoping to get these large enough to get put outside before the summer hits too hard, and then baby them through the hot summer to get some mighty delicious tomatoes. (Tomatoes are prolific where I live, so three plants will be far too many - I'm hoping to produce enough to give tomatoes to my friends as well. :>)
-
-## Radish, Japanese Wasabi
-**Latin Name:** *Raphanus sativus* \
-**Planted:** April 20, 2024 🌿 \
-**Sprouted:** April 22, 2024 \
-**Type:** Soil sow in a grow tray on heating pad \
-I currently have 4 cells of these, all which have sprouted at time of publishing. These were the gift seeds from Rare Seeds for ordering >$10 on an order, and I was so delighted to see these as I had considered ordering these as well as everything else. The flavor of this radish is said to be close to that of wasabi or horseradish root.
 
 <!-- POTTED SECTION -->
 # Potted Plants
@@ -250,12 +224,38 @@ I found this bonsai while I was down in Texas visiting a friend. I am not one th
 
 This will be hands-down the most difficult plant I have to take care of. Juniper bonsais are notorious for being near-impossible to take care of indoors, which is where I am caring for it. This is due to complications about how it is a tree that is pot-bound and requires regular repotting or transplanting to replenish nutrients in the soil, as well as their strict light, humidity, and temperature requirements. People also typically use soil that retains far too much water and can cause root rot or other issues. I will be leaving it in its current pot for the year, and will begin looking for a larger pot for it near the end of this year to transplant it early spring next year. 
 
+## Komatsuna, Spinach Mustard "Old Tokyo"
+**Latin Name:** *Brassica rapa var perviridis* \
+**Planted:** April 20, 2024 🌿 \
+**Sprouted:** April 22, 2024 \
+**Potted:** April 26, 2024 \
+**Pot:** 6" nursey pot \
+**Type:** Soil sow in a grow tray on heating pad \
+A member of the brassica family (cabbages and mustards), this was one of those plants that just sort of caught my eye. I currently have one cell that I am attempting to sprout and grow since I'm not sure what to really expect with this plant. A food veggie that I really just wanted to grow and try out. Depending on the size of the leaves, I hope toa dd this to salads. :>
+
 ## Marshmallow
 **Latin Name:** *Althaea officinalis* \
 **Type:** Perennial \
 **Potted:** January 2024 \
 **Pot:** 6" nursery pot \
 I wish that this plant grew the fun little treats that we put on top of hot cocoa. :( Pollinators <i>love</i> this plant, so if you are wanting something toa dd a little variety and encourage the bees, this is a good place to go. Of my January plants, this is the one that's absolutely shot up and grown the fastest and strongest. It is because of this plant I am looking to see how to accommodate tall plants indoors, because it is absolutely pushing the limits of what I have set up, hah. I should really just put it outside and let it thrive in the already hot spring we're having. I have no conern that this will grow very strong.
+
+## Mizuna, 605 Summer
+**Latin Name:** *Brassica nipposinica* \
+**Planted:** April 20, 2024 🌿 \
+**Sprouted:** April 22, 2024 \
+**Potted:** April 26, 2024 \
+**Pot:** 6" nursey pot \
+**Type:** Soil sow in a grow tray on heating pad \
+Another interesting green that I found while browsing the Rare Seeds website. I have two cells that I am attempting to grow so that I have plenty of greens to make salads out of this year. :D This variety is intended to be more water and crisp, perfect for eating in the hot summer!
+
+## Mizuna, Japanese Pink
+**Latin Name:** *Brassica juncea* \
+**Planted:** April 20, 2024 🌿 \
+**Sprouted:** April 22, 2024 \
+**Potted:** April 26, 2024 \
+**Type:** Soil sow in a grow tray on heating pad \
+I found this alongside the 605 seeds. I have two cells that I'm attempting to grow so that I have plenty of greens to make salads out of this year. :D This variety has plenty of antioxidants and is a so-called "superfood".
 
 ## Mugwort
 **Latin Name:** *Artemisia vulgaris* \
@@ -274,6 +274,15 @@ This lovely flowering plant is commonly used for beer making, and may also help 
 This plant requires open ground to germinate and is thus not typically very invasive, but if you live in a plains area or anywhere with wide-open area, please consider checking with your state or country's department of agriculture to ensure they are not considereed a noxious weed or otherwise need quarantine. (Fun fact: each plant can produce 100,000-240,000 seeds!)
 
 I've seen pictures of this plant but I still didn't expect it to be so fun! The leaves are broad and very, very fuzzy - a general joy to touch. This plant has been EXPLODING with growth lately, so I am going to need to find a nice big pot to put it in. These guys grow to be 2-7 feet tall, and 1-3 feet wide, so I have my work cut out for me, hah.
+
+## Radish, Japanese Wasabi
+**Latin Name:** *Raphanus sativus* \
+**Planted:** April 20, 2024 🌿 \
+**Sprouted:** April 22, 2024 \
+**Potted:** April 26, 2024 \
+**Pot:** 6" nursey pot \
+**Type:** Soil sow in a grow tray on heating pad \
+I currently have 4 cells of these, all which have sprouted at time of publishing. These were the gift seeds from Rare Seeds for ordering >$10 on an order, and I was so delighted to see these as I had considered ordering these as well as everything else. The flavor of this radish is said to be close to that of wasabi or horseradish root.
 
 ## String of Turtles
 **Latin Name:** *Peperomia prostrata* \

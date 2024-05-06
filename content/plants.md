@@ -87,8 +87,13 @@ I found this company while on the hunt for edible chrysanthemum seeds. They are 
 <br /><br />
 My interest in this plant stems from a trip to Texas that I took to visit a friend. They introduced me to another friend, and all three of us went out to hot pot. It was my first time so I was mostly just trying to figure out how all of this worked, and my new friend grabbed some leafy green that looked like it could be wild rocket arugula, but ended up being this delightful plant instead! I am SO excited to grow a plant large enough to start cooking with it! These seeds started sprouting within 4 days of being planted, so I am already very pleased.
 </details>
-</details>
 
+<details><summary style="width: 400px;cursor:pointer;outline:none;color: #000;font-weight:bold;padding-left: 5px; border-radius: 5px;">Ordered: May 3rd, 2024</summary>
+<b>Product Ordered:</b> 1x <a href="https://www.rareseeds.com/turmeric-yellow-2-plants-ships-prompt" target="_blank">Tumeric Plants Yellow (3 Plants)</a>
+<br /><br />
+Who doesn't love a little tumeric? I use tumeric quite often while cooking and thought it would be very nice to have the option of having fresh tumeric that I've grown myself. While it can take a year to establish rhizome plants like ginger and tumeric, they also grow themselves and if you make sure to save enough fingers each year, you can continue to grow more and more each subsequent year. :> I had hoped to order these with ginger, but the ginger was out of stock before I had the chance. :(
+</details>
+</details>
 <br />
 
 <!-- GERMIANTION SECTION -->
@@ -102,66 +107,53 @@ These are the plants I have sown seeds for that I'm attempting to sprout. :> I a
 **Type:** Soil sow in grow tray on heating pad \
 I currently have four cells I am attempting to germinate. I have attempted these in the past and have not had luck with them, but we do not get anywhere by giving up! This is my second attempt at these and it's paid off. :> As of time of publishing, I have one cell that has a sprout.
 
-## Edible Chrysanthemum (Tong Hao)
-**Latin Name:** *Chrysanthemum coronarium* -> *Glebionis coronaria* \
-**Planted:** April 13, 2024 \
-**Sprouted:** April 16, 2024 \
-**Type:** Soil sow in grow tray on heating pad \
-I currently have four cells that I am attempting to germinate. Three of four cells have cotyledons popping up and are flourishing! I have a friend who will likely take at least one of these plants once large enough. :> All of the seeds are sprouting and I'm having to keep pulling out extra sprouts to ensure hardy young plants - a problem I've never had before! I am <i>super</i> excited for these.
-
 ## Catnip
 **Latin Name:** *Nepeta cataria* \
 **Planted:** April 17, 2024 \
 **Sprouted:** April 26, 2024 \
 **Type:** Soil sow in grow tray on heating pad \
-I currently have one cell that I am attempting to germinate. I hope the kitties appreciate all that I do for them. 😭
+I currently have one cell that I am attempting to germinate. I hope the kitties appreciate all that I do for them. 😭 One initially sprouted, and then a second sprouted and I carefully moved it to one of the failed cells for the St. John's Wort, so now I have two that are growing! Waiting on them to be strong enough to transplant.
 
 ## Chocolate Mint
 **Latin Name:** *Mentha piperita* \
 **Planted:** April 17, 2024 \
-**Type:** Cutting in water, to be moved to soil once rooted \
-I currently have one cutting that I am attempting to sprout. This is for a buddy of mine who loves mint as much as I do. :>
+**Type:** Cutting in water, moved to soil and babied into success \
+I currently have one cutting that I am attempting to sprout. This is for a buddy of mine who loves mint as much as I do. :> Just waiting for the roots to establish enough to move to a pot that I can give her.
 
 ## Anise Hyssop
 **Latin Name:** *Agastache foeniculum* \
 **Planted:** April 17, 2024 \
 **Sprouted:** April 25, 2024 \
 **Type:** Soil sow in grow tray on heating pad \
-Part of the mint family! I currently have two cells that I am attempting to germinate. I plan to keep one plant for myself, and take the second plant up to a friend of mine. :D
+Part of the mint family! I currently have two cells that I am attempting to germinate. I plan to keep one plant for myself, and take the second plant up to a friend of mine. :D These seem to be relatively slow growing, and I am currently waiting on them to be strong enough to be transplanted.
 
 ## Korean Licorice Mint
 **Latin Name:** *Agastache rugosa* \
 **Planted:** April 17, 2024 \
 **Sprouted:** April 26, 2024 \
 **Type:** Soil sow in grow tray on heating pad \
-Part of the mint family! I currently have two cells that I am attempting to germinate. I plan to keep one plant for myself, and take the second plant up to a friend of mine. :D
+Part of the mint family! I currently have two cells that I am attempting to germinate. I plan to keep one plant for myself, and take the second plant up to a friend of mine. :D These seem to be slow growing, and I am currently waiting on them to grow strong enough to be transplanted.
 
 ## Arugula, Red Dragon
 **Latin Name:** *Eruca sativa* \
 **Planted:** April 20, 2024 🌿 \
 **Sprouted:** April 22, 2024 \
 **Type:** Soil sow in a grow tray on heating pad \
-Arugula (rocket, for the Brits) is just my favorite green of all time. I have one cell that I am growing so that I can throw it into my salads. While the others I have multiple plants of so that I can share with my parents, I am the only one in the house that likes arugula so this one's all mine. :> This particular variety has dramatic lobed leaves like an oak leaf, with a splash of very pretty crimson color.
+Arugula (rocket, for the Brits) is just my favorite green of all time. I have one cell that I am growing so that I can throw it into my salads. While the others I have multiple plants of so that I can share with my parents, I am the only one in the house that likes arugula so this one's all mine. :> This particular variety has dramatic lobed leaves like an oak leaf, with a splash of very pretty crimson color. This has been a slow grower, and I am waiting for it to grow strong enough to be transplanted.
 
 ## Sweet Pepper, Shishito
 **Latin Name:** *Capsicum annuum* \
 **Planted:** April 20, 2024 🌿 \
 **Sprouted:** April 26, 2024 \
 **Type:** Soil sow in a grow tray on heating pad \
-A Japanese variety of peppers that are typically sweeter and very mildly spicy. I have two cells that I am currently trying to sprout.
-
-## Lemon Balm, Limoncello
-**Latin Name:** *Melissa officinalis Limoncello* \
-**Planted:** April 20, 2024 🌿 \
-**Type:** Soil sow in a grow tray on heating pad \
-A lemon balm with even more lemon scent and flavor than other varieties. I have one cell that I'm currently trying to sprout. I mostly got this one just because lemon is my favorite fruit and I wanted a plant that smells like lemon, hah.
+A Japanese variety of peppers that are typically sweeter and very mildly spicy. I have two cells that I am currently trying to sprout. They are doing very, very well and I am currently waiting for them to be strong enough to move to a large enough pot for them.
 
 ## Black Beauty Tomatoes
 **Latin Name:** *Solanum lycopersicum* \
 **Planted:** April 20, 2024 🌿 \
 **Sprouted:** April 25, 2024 \
 **Type:** Soil sow in a grow tray on heating pad \
-I have three cells of these I am attempting to sprout. Very dark, black tomatoes that are supposed to taste absolutely amazing. I'm hoping to get these large enough to get put outside before the summer hits too hard, and then baby them through the hot summer to get some mighty delicious tomatoes. (Tomatoes are prolific where I live, so three plants will be far too many - I'm hoping to produce enough to give tomatoes to my friends as well. :>)
+I have three cells of these I am attempting to sprout. Very dark, black tomatoes that are supposed to taste absolutely amazing. I'm hoping to get these large enough to get put outside before the summer hits too hard, and then baby them through the hot summer to get some mighty delicious tomatoes. (Tomatoes are prolific where I live, so three plants will be far too many - I'm hoping to produce enough to give tomatoes to my friends as well. :>) Two fo these plants have successfully sprouted! I am currently waiting for them to be strong enough to move to a nursery planter, to eventually be established outside.
 
 <!-- POTTED SECTION -->
 # Potted Plants
@@ -198,6 +190,15 @@ Mine is most likely from the buckleyi group, the "true" Christmas cactus with mo
 **This plant can possibly become invasive,** so if you wish to grow it please check your state or country's department of agriculture to ensure they are not considereed a noxious weed or otherwise need quarantine.
 
 This plant started out pretty fast but the growth slowed down for a while before exploding again after swapping to my plant shelf setup. I think that it suffereed in the same was as my mullein plant in that the previous setup required that I adjust my (singular) grow light to accommodate the taller plants, which made the smaller (at the time) plants receive less direct light. It's very happy now and growing well. :>
+
+## Edible Chrysanthemum (Tong Hao)
+**Latin Name:** *Chrysanthemum coronarium* -> *Glebionis coronaria* \
+**Planted:** April 13, 2024 \
+**Sprouted:** April 16, 2024 \
+**Potted:** April 22, 2024 \
+**Pot:** 6" nursery pot \
+**Type:** Soil sow in grow tray on heating pad \
+I currently have four cells that I am attempting to germinate. Three of four cells have cotyledons popping up and are flourishing! I have a friend who will likely take at least one of these plants once large enough. :> All of the seeds are sprouting and I'm having to keep pulling out extra sprouts to ensure hardy young plants - a problem I've never had before! I am <i>super</i> excited for these. They are growing well thus far. :>
 
 ## Heal All
 **Latin Name:** *Prunella vulgaris* \

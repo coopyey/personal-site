@@ -313,7 +313,7 @@ A Japanese variety of peppers that are typically sweeter and very mildly spicy. 
 **Latin Name:** *Curcuma longa* L. \
 **Planted:** May 20, 2024 \
 **Potted:** Outside \
-Turmeric is a plant that we use in cooking enough to justify buying it and giving growing it a real shot. Our winters are unfortunately run the risk of being too cold to keep it in ground all year around, so it will have to be pulled in each winter, but that's fine. It will give us the opportunity to harvest the turmeric and use home grown turmeric in our cooking instead of store bought, and isn't that just the dream? I'm so incredibly excited to see how this does this year, and that will dictate if I get the blue variant inn the future. :>
+Turmeric is a plant that we use in cooking enough to justify buying it and giving growing it a real shot. Our winters are unfortunately run the risk of being too cold to keep it in ground all year around, so it will have to be pulled in each winter, but that's fine. It will give us the opportunity to harvest the turmeric and use home grown turmeric in our cooking instead of store bought, and isn't that just the dream? I'm so incredibly excited to see how this does this year, and that will dictate if I get the blue variant in the future. :>
 
 ## Valerian
 **Latin Name:** *Valeriana officinalis* \

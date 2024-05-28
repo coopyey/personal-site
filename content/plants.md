@@ -110,9 +110,46 @@ These are the plants I have sown seeds for that I'm attempting to sprout. :> I a
 
 None right now! :>
 
-<!-- POTTED SECTION -->
-# Potted Plants
-These are plants that I have in pots. My plants are all currently indoor plants, but I will break this section into indoor/outdoor if this ever changes.
+<!-- Outdoor SECTION -->
+# Outdoor Plants
+These are plants that I am growing outdoors! I have to pick plants that are rather heat tolerant to grow outside as our summers get very hot and humid. I'm hoping to find some good winter plants so that I can start growing outside all year. :) All plants are grown in containers as the soil at my house is not good and any attempts to correct it ends up being eroded away due to seasonal flooding. I'd love to eventually build some large raised beds for growing, but I am not in a place to do that at this time.
+
+## Black Beauty Tomatoes
+**Latin Name:** *Solanum lycopersicum* \
+**Planted:** April 20, 2024 🌿 \
+**Sprouted:** April 25, 2024 \
+**Potted:** May 20, 2024 \
+**Pot:** Outside \
+**Type:** Soil sow in a grow tray on heating pad \
+I have three cells of these I am attempting to sprout. Very dark, black tomatoes that are supposed to taste absolutely amazing. I'm hoping to get these large enough to get put outside before the summer hits too hard, and then baby them through the hot summer to get some mighty delicious tomatoes. (Tomatoes are prolific where I live, so three plants will be far too many - I'm hoping to produce enough to give tomatoes to my friends as well. :>) Two of these plants have successfully sprouted! I'd moved these outside, and now they're finally put into planters (the soil here is poor, so it's all containers) to grow!
+
+## Edible Chrysanthemum (Tong Hao)
+**Latin Name:** *Chrysanthemum coronarium* -> *Glebionis coronaria* \
+**Planted:** April 13, 2024 \
+**Sprouted:** April 16, 2024 \
+**Potted:** April 22, 2024 \
+**Pot:** 6" nursery pot \
+**Type:** Soil sow in grow tray on heating pad \
+I currently have four cells that I am attempting to germinate. Three of four cells have cotyledons popping up and are flourishing! I have a friend who will likely take at least one of these plants once large enough. :> All of the seeds are sprouting and I'm having to keep pulling out extra sprouts to ensure hardy young plants - a problem I've never had before! I am <i>super</i> excited for these. They are growing well thus far. :>
+
+I have something like four of these plants, so I set one of them outside just to give it a try. The outdoors plant is not doing as well as the indoors plants, but it hasn't perished, so we will see how it does. 
+
+## Marshmallow
+**Latin Name:** *Althaea officinalis* \
+**Type:** Perennial \
+**Potted:** January 2024 \
+**Pot:** 6" nursery pot \
+I wish that this plant grew the fun little treats that we put on top of hot cocoa. :( Pollinators <i>love</i> this plant, so if you are wanting something toa dd a little variety and encourage the bees, this is a good place to go. Of my January plants, this is the one that's absolutely shot up and grown the fastest and strongest. It is because of this plant I am looking to see how to accommodate tall plants indoors, because it is absolutely pushing the limits of what I have set up, hah. I should really just put it outside and let it thrive in the already hot spring we're having. I have no conern that this will grow very strong.
+
+## Turmeric
+**Latin Name:** *Curcuma longa* L. \
+**Planted:** May 20, 2024 \
+**Potted:** Outside \
+Turmeric is a plant that we use in cooking enough to justify buying it and giving growing it a real shot. Our winters are unfortunately run the risk of being too cold to keep it in ground all year around, so it will have to be pulled in each winter, but that's fine. It will give us the opportunity to harvest the turmeric and use home grown turmeric in our cooking instead of store bought, and isn't that just the dream? I'm so incredibly excited to see how this does this year, and that will dictate if I get the blue variant in the future. :>
+
+<!-- Indoor SECTION -->
+# Indoor Plants
+These are plants that I keep indoors. At this time I keep all of my plants in post with soil, but if I start up my hydroponics again, I will note it. At this time, most of them are living on a wire shelf with ziptied grow lights. I have a little bit of overflow so there are some plants additionaly on the floor with a stand grow light on them to make sure they receive enough light. I plan to pick up another set of shelves with lights.
 
 ## Aloe Pepe
 **Latin Name:** *Aloe descoingsii x haworthioides* \
@@ -129,15 +166,6 @@ I typically stay away from succulents because my growing environment tends to be
 **Pot:** 6" nursery pot \
 **Type:** Soil sow in grow tray on heating pad \
 Part of the mint family! I currently have two cells that I am attempting to germinate. I plan to keep one plant for myself, and take the second plant up to a friend of mine. :D These have finally been potted and I am very happy - they smell a little weird, but I'm very excited to have them! I plan to give one to my friend, so I am waiting for one to be established enough to give to her. :>
-
-## Black Beauty Tomatoes
-**Latin Name:** *Solanum lycopersicum* \
-**Planted:** April 20, 2024 🌿 \
-**Sprouted:** April 25, 2024 \
-**Potted:** May 20, 2024 \
-**Pot:** Outside \
-**Type:** Soil sow in a grow tray on heating pad \
-I have three cells of these I am attempting to sprout. Very dark, black tomatoes that are supposed to taste absolutely amazing. I'm hoping to get these large enough to get put outside before the summer hits too hard, and then baby them through the hot summer to get some mighty delicious tomatoes. (Tomatoes are prolific where I live, so three plants will be far too many - I'm hoping to produce enough to give tomatoes to my friends as well. :>) Two of these plants have successfully sprouted! I'd moved these outside, and now they're finally put into planters (the soil here is poor, so it's all containers) to grow!
 
 ## Catnip
 **Latin Name:** *Nepeta cataria* \
@@ -309,12 +337,6 @@ I've always wanted one of these plants because I find them to just be the cutest
 **Type:** Soil sow in a grow tray on heating pad \
 A Japanese variety of peppers that are typically sweeter and very mildly spicy. I have two cells that I am currently trying to sprout. They are doing very, very well and I am currently waiting for them to be strong enough to move to a large enough pot for them.
 
-## Turmeric
-**Latin Name:** *Curcuma longa* L. \
-**Planted:** May 20, 2024 \
-**Potted:** Outside \
-Turmeric is a plant that we use in cooking enough to justify buying it and giving growing it a real shot. Our winters are unfortunately run the risk of being too cold to keep it in ground all year around, so it will have to be pulled in each winter, but that's fine. It will give us the opportunity to harvest the turmeric and use home grown turmeric in our cooking instead of store bought, and isn't that just the dream? I'm so incredibly excited to see how this does this year, and that will dictate if I get the blue variant in the future. :>
-
 ## Valerian
 **Latin Name:** *Valeriana officinalis* \
 **Type:** Perennial \
@@ -330,3 +352,4 @@ Valerian is a plant that I've seen without know what I was looking at, and I'm r
 **This plant is toxic to cats, dogs, and horses, an can aggravate hayfever in some individuals. This plant can also easily become invasive,** so if you wish to grow it please check your state or country's department of agriculture to ensure they are not considereed a noxious weed or otherwise need quarantine.
 
 This plant is more slow-growing than the others I have potted, but it started doing *very* well once I switched to the plant shelves and swapped out my grow lights. I wonder if it wasn't quite getting enough light in the old setup because I had to adjust the light height based on the taller plants. The leaves on it are all very cute and I'm very happy with it thus far!
+

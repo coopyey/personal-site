@@ -24,6 +24,8 @@ I also have interest in systems that focus less on combat and more on the narrat
 • Blade Runner The RPG \
 • Vast Grimm (Mörk Borg)
 
+<i></i>
+
 ## Active Campaigns
 Campaigns are listed in order of start date, so the longest-running campaigns are going to be at the top.
 
@@ -31,13 +33,13 @@ Campaigns are listed in order of start date, so the longest-running campaigns ar
 **System:** Dungeons & Dragon 5E \
 **DM:** <a href="https://twitter.com/MattDoyleSmit" target="_blank">Matt Doyle</a> \
 **Start Date:** January 13, 2023 \
-**Character:** Calthel Lorvarax; Black Dragonborn Great Old One Warlock
+**Character:** Calthel Lorvarax; Black Dragonborn Great Old One Tome Warlock
 
 *Nuclear Chrome* \
 **System:** Cyberpunk RED \
 **DM:** Ceildread \
 **Start Date:** January 19, 2023 \
-**Character:** Emerick Kline; 4 Media
+**Character:** Emerick Kline; 5 Media
 
 *Danse Macabre* \
 **System:** Dungeons & Dragons 5E -> Pathfinder 2E \
@@ -49,13 +51,19 @@ Campaigns are listed in order of start date, so the longest-running campaigns ar
 **System:** Pathfinder 2E (Adventure Path) \
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** May 20, 2023 \
-**Character:** Killian; Toy Poppet Betrayal Warlock (homebrew)
+**Character:** Killian; Toy Poppet Betrayal Warlock (homebrew) -> Resentment Witch
 
 *Seal of Infinity* \
 **System:** Pathfinder 2E \
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** June 26, 2023 \
 **Character:** Faylen; Changeling Elf Laughing Shadow Magus
+
+*Strahd Has Risen From the Grave* \
+**System:** Pathfinder 2E \
+**DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
+**Start Date:** May 18, 2024 \
+**Character:** Atheya; Dhampir Elf Life Oracle
 
 ## Inactive Campaigns
 *Aestall* \

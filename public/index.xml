@@ -2,24 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>coops corner</title>
-    <link>http://localhost:1313/</link>
+    <link>https://coopyey.gay/</link>
     <description>Recent content on coops corner</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://coopyey.gay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/plants/</link>
+      <link>https://coopyey.gay/plants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/plants/</guid>
+      
+      <guid>https://coopyey.gay/plants/</guid>
       <description>Here you can find what plants I&amp;rsquo;m growing and some information about them. I may eventually build a quartz website with more in-depth information on how to germinate, care for, and harvest the plants that I am growing. I do extensive research into figuring out what is and what isn&amp;rsquo;t invasive here, as well as what is on the noxious plants and banned lists for where I live. Plants that do live on that list stay strictly indoor to avoid spread, while the rest may eventually be introduced as container indoor/outdoor plants.</description>
     </item>
+    
     <item>
       <title></title>
-      <link>http://localhost:1313/ttrpg-campaigns/</link>
+      <link>https://coopyey.gay/ttrpg-campaigns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ttrpg-campaigns/</guid>
-      <description>This page is a place for me to log my currently active campaigns (and maybe also throw shoutouts to my friends along the way).&#xA;I keep a Quartz page with my campaign notes here.&#xA;System Discussion Over time I have found myself moving more and more towards systems that are skill-based (Cyberpunk RED) rather than dice-RNG-based (D&amp;amp;D5E). I find it a lot more fun to build characters that are good at specific things and really shine when doing the things they are good at rather than leaving everything up to the roll of the dice, and anyone can do anything as long as they roll well enough.</description>
+      
+      <guid>https://coopyey.gay/ttrpg-campaigns/</guid>
+      <description>This page is a place for me to log my currently active campaigns (and maybe also throw shoutouts to my friends along the way).
+I keep a Quartz page with my campaign notes here.
+System Discussion Over time I have found myself moving more and more towards systems that are skill-based (Cyberpunk RED) rather than dice-RNG-based (D&amp;amp;D5E). I find it a lot more fun to build characters that are good at specific things and really shine when doing the things they are good at rather than leaving everything up to the roll of the dice, and anyone can do anything as long as they roll well enough.</description>
     </item>
+    
   </channel>
 </rss>

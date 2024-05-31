@@ -2,14 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/plants/</loc>
+    <loc>https://coopyey.gay/plants/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/ttrpg-campaigns/</loc>
+    <loc>https://coopyey.gay/ttrpg-campaigns/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://coopyey.gay/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://coopyey.gay/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://coopyey.gay/tags/</loc>
   </url>
 </urlset>

@@ -61,7 +61,7 @@ So far I have planted: feverfew, heal all, mugwort, marshmallow, mullein, valeri
 <br />
 I found this company while on the hunt for edible chrysanthemum seeds. They offer hard to find or unusual plants, including rhizomes for a <i>blue</i> Turmeric plant that I'm keeping an eye open for to order. I have yet to receive my order from them but I am excited to try some new leafy greens and plant what my friend has affectionately labeled "goth tomat" this year to add some variety to the kitchen this year. This is also the only website of the three that have Turmeric and ginger rhizomes/fingers, so definitely worth keeping an eye on!<br /><br />
 
-<details><summary style="width: 400px;cursor:pointer;outline:none;color: #000;font-weight:bold;padding-left: 5px; border-radius: 5px;">Ordered: April 12, 2024</summary>
+<details><summary style="width: 400px;cursor:pointer;outline:none;color: #000;font-weight:bold;padding-left: 5px; border-radius: 5px;">Ordered: April 12th, 2024</summary>
 <b>Shipped:</b> April 16, 2024<br />
 <b>Received:</b> April 23, 2024<br />
 <b>Products Ordered:</b><br />
@@ -76,7 +76,7 @@ I found this company while on the hunt for edible chrysanthemum seeds. They offe
 <br /><br />
 All of these were bought with the intention of growing to eat. I plan to keep these primarily indoors to cheat the growing seasons since half of these seeds are Japanese plants and would struggle with the area that I live in due to differences in climate. This will be my first time trying to grow peppers so I hope that goes well. I saw them down in Texas on my last trip and was interested in them, so I hope they do well. I'm also rather excited for the tomatoes because tomatoes always do incredibly well where I live, and now that I work from home I can really be sure to baby them and make sure they get enough water so they flourish in the hot summers here. Very, very excited to get started on all of these plants. :>
 </details>
-<details><summary style="width: 400px;cursor:pointer;outline:none;color: #000;font-weight:bold;padding-left: 5px; border-radius: 5px;">Ordered: May 03, 2024</summary>
+<details><summary style="width: 400px;cursor:pointer;outline:none;color: #000;font-weight:bold;padding-left: 5px; border-radius: 5px;">Ordered: May 3rd, 2024</summary>
 <b>Shipped:</b> May 08, 2024<br />
 <b>Received:</b> May 11, 2024<br />
 <b>Products Ordered:</b> 1x <a herf="https://www.rareseeds.com/turmeric-yellow-2-plants-ships-prompt" target="_blank">Turmeric Plants, Yellow (3 Plants)</a><br />
@@ -85,6 +85,7 @@ Turmeric is a plant that we use with cooking quite a bit and I thought it would 
 </details>
 </details>
 <br />
+<!-- TERRIOR SEEDS HERE -->
 <details><summary style="width: 400px;cursor:pointer;outline:none;color: #000;font-variant:small-caps;font-size:18px;padding-left: 5px;margin-bottom: 10px; border-radius: 5px; margin-bottom: -0.5em;">Terroir Seeds</summary>
 <br />
 I found this company while on the hunt for edible chrysanthemum seeds. They are who I ended up ordering my seeeds from, as they had the medium leaf variety that I wanted and had while I was visiting Texas. Their "about us" page impressed me: they take a multiple pronged approach to provide good seeds to those who wish to garden or grow food, and have an active interest in restoring the grasslands and soils. I can't comment on their claim to cultivate seeds using the best taste and hardiest plants, but we shall see how their seeds hold up.<br /><br />
@@ -94,12 +95,6 @@ I found this company while on the hunt for edible chrysanthemum seeds. They are 
 <b>Product Ordered:</b> 2x <a href="https://store.underwoodgardens.com/Edible-Chrysanthemum-Chrysanthemum-coronarium/productinfo/V1297/" target="_blank">Edible Chrysanthemum Seeds</a>
 <br /><br />
 My interest in this plant stems from a trip to Texas that I took to visit a friend. They introduced me to another friend, and all three of us went out to hot pot. It was my first time so I was mostly just trying to figure out how all of this worked, and my new friend grabbed some leafy green that looked like it could be wild rocket arugula, but ended up being this delightful plant instead! I am SO excited to grow a plant large enough to start cooking with it! These seeds started sprouting within 4 days of being planted, so I am already very pleased.
-</details>
-
-<details><summary style="width: 400px;cursor:pointer;outline:none;color: #000;font-weight:bold;padding-left: 5px; border-radius: 5px;">Ordered: May 3rd, 2024</summary>
-<b>Product Ordered:</b> 1x <a href="https://www.rareseeds.com/turmeric-yellow-2-plants-ships-prompt" target="_blank">Turmeric Plants Yellow (3 Plants)</a>
-<br /><br />
-Who doesn't love a little Turmeric? I use Turmeric quite often while cooking and thought it would be very nice to have the option of having fresh Turmeric that I've grown myself. While it can take a year to establish rhizome plants like ginger and Turmeric, they also grow themselves and if you make sure to save enough fingers each year, you can continue to grow more and more each subsequent year. :> I had hoped to order these with ginger, but the ginger was out of stock before I had the chance. :(
 </details>
 </details>
 <br />
@@ -145,7 +140,7 @@ I wish that this plant grew the fun little treats that we put on top of hot coco
 **Latin Name:** *Curcuma longa* L. \
 **Planted:** May 20, 2024 \
 **Potted:** Outside \
-Turmeric is a plant that we use in cooking enough to justify buying it and giving growing it a real shot. Our winters are unfortunately run the risk of being too cold to keep it in ground all year around, so it will have to be pulled in each winter, but that's fine. It will give us the opportunity to harvest the turmeric and use home grown turmeric in our cooking instead of store bought, and isn't that just the dream? I'm so incredibly excited to see how this does this year, and that will dictate if I get the blue variant in the future. :>
+Turmeric is a plant that we use in cooking enough to justify buying it and giving growing it a real shot. Our winters are unfortunately run the risk of being too cold to keep it in ground all year around, so it will have to be pulled in each winter, but that's fine. It will give us the opportunity to harvest the turmeric and use home grown turmeric in our cooking instead of store bought, and isn't that just the dream? I'm so incredibly excited to see how this does this year, and that will dictate if I get the blue variant in the future.
 
 <!-- Indoor SECTION -->
 # Indoor Plants
@@ -260,13 +255,6 @@ A member of the brassica family (cabbages and mustards), this was one of those p
 **Pot:** 6" nursery pot \
 **Type:** Soil sow in grow tray on heating pad \
 Part of the mint family! I currently have two cells that I am attempting to germinate. I plan to keep one plant for myself, and take the second plant up to a friend of mine. :D These have finally gotten large enough to transplant so now I am excited for one of these to be large enough to take up to my friend.
-
-## Marshmallow
-**Latin Name:** *Althaea officinalis* \
-**Type:** Perennial \
-**Potted:** January 2024 \
-**Pot:** 6" nursery pot \
-I wish that this plant grew the fun little treats that we put on top of hot cocoa. :( Pollinators <i>love</i> this plant, so if you are wanting something toa dd a little variety and encourage the bees, this is a good place to go. Of my January plants, this is the one that's absolutely shot up and grown the fastest and strongest. It is because of this plant I am looking to see how to accommodate tall plants indoors, because it is absolutely pushing the limits of what I have set up, hah. I should really just put it outside and let it thrive in the already hot spring we're having. I have no conern that this will grow very strong.
 
 ## Mizuna, 605 Summer
 **Latin Name:** *Brassica nipposinica* \

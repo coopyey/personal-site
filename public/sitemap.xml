@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://coopyey.gay/artists/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://coopyey.gay/food/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://coopyey.gay/plants/</loc>
     <priority>0</priority>
   </url><url>

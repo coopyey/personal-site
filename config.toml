@@ -22,3 +22,8 @@ weight = 1
 name = "artists"
 url = "/artists/"
 weight = 1
+
+[[menu.main]]
+name = "recipes"
+url = "/food/"
+weight = 1

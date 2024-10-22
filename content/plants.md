@@ -109,38 +109,42 @@ None right now! :>
 # Outdoor Plants
 These are plants that I am growing outdoors! I have to pick plants that are rather heat tolerant to grow outside as our summers get very hot and humid. I'm hoping to find some good winter plants so that I can start growing outside all year. :) All plants are grown in containers as the soil at my house is not good and any attempts to correct it ends up being eroded away due to seasonal flooding. I'd love to eventually build some large raised beds for growing, but I am not in a place to do that at this time.
 
-## Black Beauty Tomatoes
-**Latin Name:** *Solanum lycopersicum* \
+## Turmeric
+**Latin Name:** *Curcuma longa* L. \
+**Planted:** May 20, 2024 \
+**Potted:** Outside (indoor over winter) \
+Turmeric is a plant that we use in cooking enough to justify buying it and giving growing it a real shot. Our winters are unfortunately run the risk of being too cold to keep it in ground all year around, so it will have to be pulled in each winter, but that's fine. It will give us the opportunity to harvest the turmeric and use home grown turmeric in our cooking instead of store bought, and isn't that just the dream? I'm so incredibly excited to see how this does this year, and that will dictate if I get the blue variant in the future. We've hit our first frost of the season so I've temporarily moved these guys inside.
+
+## Radish, Japanese Wasabi
+**Latin Name:** *Raphanus sativus* \
 **Planted:** April 20, 2024 🌿 \
-**Sprouted:** April 25, 2024 \
-**Potted:** May 20, 2024 \
-**Pot:** Outside \
+**Sprouted:** April 22, 2024 \
+**Potted:** April 26, 2024 \
+**Pot:** 6" nursey pot \
 **Type:** Soil sow in a grow tray on heating pad \
-I have three cells of these I am attempting to sprout. Very dark, black tomatoes that are supposed to taste absolutely amazing. I'm hoping to get these large enough to get put outside before the summer hits too hard, and then baby them through the hot summer to get some mighty delicious tomatoes. (Tomatoes are prolific where I live, so three plants will be far too many - I'm hoping to produce enough to give tomatoes to my friends as well. :>) Two of these plants have successfully sprouted! I'd moved these outside, and now they're finally put into planters (the soil here is poor, so it's all containers) to grow!
+I currently have 4 cells of these, all which have sprouted at time of publishing. These were the gift seeds from Rare Seeds for ordering >$10 on an order, and I was so delighted to see these as I had considered ordering these as well as everything else. The flavor of this radish is said to be close to that of wasabi or horseradish root. I ended up planting tehse outside and it's coming up on the time to harvest them. :>
+
+<!-- Hydropnoic SECTION -->
+# Hydropnic Plants
+I have a small hydro setup. I'd like to expand into this more in the future, but it's pretty small right now.
 
 ## Edible Chrysanthemum (Tong Hao)
 **Latin Name:** *Chrysanthemum coronarium* -> *Glebionis coronaria* \
 **Planted:** April 13, 2024 \
 **Sprouted:** April 16, 2024 \
 **Potted:** April 22, 2024 \
-**Pot:** 6" nursery pot \
+**Pot:** Hydro \
 **Type:** Soil sow in grow tray on heating pad \
 I currently have four cells that I am attempting to germinate. Three of four cells have cotyledons popping up and are flourishing! I have a friend who will likely take at least one of these plants once large enough. :> All of the seeds are sprouting and I'm having to keep pulling out extra sprouts to ensure hardy young plants - a problem I've never had before! I am <i>super</i> excited for these. They are growing well thus far. :>
 
-I have something like four of these plants, so I set one of them outside just to give it a try. The outdoors plant is not doing as well as the indoors plants, but it hasn't perished, so we will see how it does. 
-
-## Marshmallow
-**Latin Name:** *Althaea officinalis* \
-**Type:** Perennial \
-**Potted:** January 2024 \
-**Pot:** 6" nursery pot \
-I wish that this plant grew the fun little treats that we put on top of hot cocoa. :( Pollinators <i>love</i> this plant, so if you are wanting something toa dd a little variety and encourage the bees, this is a good place to go. Of my January plants, this is the one that's absolutely shot up and grown the fastest and strongest. It is because of this plant I am looking to see how to accommodate tall plants indoors, because it is absolutely pushing the limits of what I have set up, hah. I should really just put it outside and let it thrive in the already hot spring we're having. I have no conern that this will grow very strong.
-
-## Turmeric
-**Latin Name:** *Curcuma longa* L. \
-**Planted:** May 20, 2024 \
-**Potted:** Outside \
-Turmeric is a plant that we use in cooking enough to justify buying it and giving growing it a real shot. Our winters are unfortunately run the risk of being too cold to keep it in ground all year around, so it will have to be pulled in each winter, but that's fine. It will give us the opportunity to harvest the turmeric and use home grown turmeric in our cooking instead of store bought, and isn't that just the dream? I'm so incredibly excited to see how this does this year, and that will dictate if I get the blue variant in the future.
+## Sweet Pepper, Shishito
+**Latin Name:** *Capsicum annuum* \
+**Planted:** April 20, 2024 🌿 \
+**Sprouted:** April 26, 2024 \
+**Potted:** May 15, 2024 \
+**Pot:** Hydro \
+**Type:** Soil sow in a grow tray on heating pad \
+A Japanese variety of peppers that are typically sweeter and very mildly spicy. I have two cells that I am currently trying to sprout. They are doing very, very well and I am currently waiting for them to be strong enough to move to a large enough pot for them.
 
 <!-- Indoor SECTION -->
 # Indoor Plants
@@ -153,15 +157,6 @@ These are plants that I keep indoors. At this time I keep all of my plants in po
 **Pot:** 6" nursery pot \
 I typically stay away from succulents because my growing environment tends to be on the chilly end and I just have had poor luck with succulents in the past, but this little guy stood out like a sore thumb. It is a dwarf succulent that grows regular leaves like aloe, but on the leaves are white teeth that give it a jagged, toothed appearance. The teeth are soft to the touch rather than spiny like a cactus, so it's quite fun to run your finger along and feel. Very funky little guy, and once I found out this particular cross was called 'Pepe,' I was in love. Very excited to have this funky little guy in my collection.
 
-## Anise Hyssop
-**Latin Name:** *Agastache foeniculum* \
-**Planted:** April 17, 2024 \
-**Sprouted:** April 25, 2024 \
-**Potted:** May 21, 2024 \
-**Pot:** 6" nursery pot \
-**Type:** Soil sow in grow tray on heating pad \
-Part of the mint family! I currently have two cells that I am attempting to germinate. I plan to keep one plant for myself, and take the second plant up to a friend of mine. :D These have finally been potted and I am very happy - they smell a little weird, but I'm very excited to have them! I plan to give one to my friend, so I am waiting for one to be established enough to give to her. :>
-
 ## Catnip
 **Latin Name:** *Nepeta cataria* \
 **Planted:** April 17, 2024 \
@@ -169,7 +164,7 @@ Part of the mint family! I currently have two cells that I am attempting to germ
 **Potted:** May 21, 2024 \
 **Pot:** 6" nursery pot \
 **Type:** Soil sow in grow tray on heating pad \
-I currently have one cell that I am attempting to germinate. I hope the kitties appreciate all that I do for them. 😭 One initially sprouted, and then a second sprouted and I carefully moved it to one of the failed cells for the St. John's Wort, so now I have two that are growing! I plan to give one of these plants to my friend, so I am waiting for one of them to grow strong enough to travel. :>
+I currently have one cell that I am attempting to germinate. I hope the kitties appreciate all that I do for them. 😭 One initially sprouted, and then a second sprouted and I carefully moved it to one of the failed cells for the St. John's Wort, so now I have two that are growing! I plan to give one of these plants to my friend, so I am waiting for one of them to grow strong enough to travel. :> This is absolutely flourishing.
 
 ## Chocolate Mint
 **Latin Name:** *Mentha piperita* \
@@ -180,38 +175,12 @@ I just love mint, okay? It's a problem. This will be kept in a container since m
 
 As with all mint plants, if you wish to grow this, I very highly recommend container growing or growing in a raised bed. Mint has a huge tendency to take over entire beds or back yards if not careful, and can choke out other plants because of their tendency to spread.
 
-## Chocolate Mint
-**Latin Name:** *Mentha piperita* \
-**Planted:** April 17, 2024 \
-**Potted:** May 21, 2024 \
-**Pot:** 6" nursery pot \
-**Type:** Cutting in water, moved to soil and babied into success \
-I currently have one cutting that I am attempting to sprout. This is for a buddy of mine who loves mint as much as I do. :> I've gotten this potted and ready to give to my friend whenever the other plants are strong enough to travel.
-
 ## Christmas Cactus
 **Latin Name:** *Schlumbergera* \
 **Type:** Perennial \
 **Potted:** March 2024 \
 **Pot:** 6" nursery pot \
 Mine is most likely from the buckleyi group, the "true" Christmas cactus with more lobed leaves, as opposed to the truncata group that typically blooms closer to Thanksgiving and has pointed leaves. Growing up, my mom kept one of these from the truncata group with the red flowers that I have typically seen on these plants. While I was visiting Texas, I saw this one on the shelf and was shocked to see *peach* flowers on it - not the normal white ranging to red that I'm accustomed to. I had to leap at the opportunity to pick it up and bring it home!
-
-## Feverfew
-**Latin Name:** *Chrysanthemum parthenium* \
-**Type:** Perennial \
-**Potted:** January 2024 \
-**Pot:** 6" nursery pot \
-**This plant can possibly become invasive,** so if you wish to grow it please check your state or country's department of agriculture to ensure they are not considereed a noxious weed or otherwise need quarantine.
-
-This plant started out pretty fast but the growth slowed down for a while before exploding again after swapping to my plant shelf setup. I think that it suffereed in the same was as my mullein plant in that the previous setup required that I adjust my (singular) grow light to accommodate the taller plants, which made the smaller (at the time) plants receive less direct light. It's very happy now and growing well. :>
-
-## Edible Chrysanthemum (Tong Hao)
-**Latin Name:** *Chrysanthemum coronarium* -> *Glebionis coronaria* \
-**Planted:** April 13, 2024 \
-**Sprouted:** April 16, 2024 \
-**Potted:** April 22, 2024 \
-**Pot:** 6" nursery pot \
-**Type:** Soil sow in grow tray on heating pad \
-I currently have four cells that I am attempting to germinate. Three of four cells have cotyledons popping up and are flourishing! I have a friend who will likely take at least one of these plants once large enough. :> All of the seeds are sprouting and I'm having to keep pulling out extra sprouts to ensure hardy young plants - a problem I've never had before! I am <i>super</i> excited for these. They are growing well thus far. :>
 
 ## Heal All
 **Latin Name:** *Prunella vulgaris* \
@@ -243,18 +212,9 @@ This will be hands-down the most difficult plant I have to take care of. Juniper
 **Planted:** April 20, 2024 🌿 \
 **Sprouted:** April 22, 2024 \
 **Potted:** April 26, 2024 \
-**Pot:** 6" nursey pot \
+**Pot:** 12" terra cotta \
 **Type:** Soil sow in a grow tray on heating pad \
 A member of the brassica family (cabbages and mustards), this was one of those plants that just sort of caught my eye. I currently have one cell that I am attempting to sprout and grow since I'm not sure what to really expect with this plant. A food veggie that I really just wanted to grow and try out. Depending on the size of the leaves, I hope toa dd this to salads. :>
-
-## Korean Licorice Mint
-**Latin Name:** *Agastache rugosa* \
-**Planted:** April 17, 2024 \
-**Sprouted:** April 26, 2024 \
-**Potted:** May 21, 2024 \
-**Pot:** 6" nursery pot \
-**Type:** Soil sow in grow tray on heating pad \
-Part of the mint family! I currently have two cells that I am attempting to germinate. I plan to keep one plant for myself, and take the second plant up to a friend of mine. :D These have finally gotten large enough to transplant so now I am excited for one of these to be large enough to take up to my friend.
 
 ## Mizuna, 605 Summer
 **Latin Name:** *Brassica nipposinica* \
@@ -263,7 +223,7 @@ Part of the mint family! I currently have two cells that I am attempting to germ
 **Potted:** April 26, 2024 \
 **Pot:** 6" nursey pot \
 **Type:** Soil sow in a grow tray on heating pad \
-Another interesting green that I found while browsing the Rare Seeds website. I have two cells that I am attempting to grow so that I have plenty of greens to make salads out of this year. :D This variety is intended to be more water and crisp, perfect for eating in the hot summer!
+Another interesting green that I found while browsing the Rare Seeds website. I have two cells that I am attempting to grow so that I have plenty of greens to make salads out of this year. :D This variety is intended to be more water and crisp, perfect for eating in the hot summer! This has been a WONDERFUL addition to our salads - I plan to grow more next year!
 
 ## Mizuna, Japanese Pink
 **Latin Name:** *Brassica juncea* \
@@ -271,7 +231,7 @@ Another interesting green that I found while browsing the Rare Seeds website. I 
 **Sprouted:** April 22, 2024 \
 **Potted:** April 26, 2024 \
 **Type:** Soil sow in a grow tray on heating pad \
-I found this alongside the 605 seeds. I have two cells that I'm attempting to grow so that I have plenty of greens to make salads out of this year. :D This variety has plenty of antioxidants and is a so-called "superfood".
+I found this alongside the 605 seeds. I have two cells that I'm attempting to grow so that I have plenty of greens to make salads out of this year. :D This variety has plenty of antioxidants and is a so-called "superfood". This has been a WONDERFUL addition to our salads - I plan to grow more next year!
 
 ## Mugwort
 **Latin Name:** *Artemisia vulgaris* \
@@ -289,25 +249,7 @@ This lovely flowering plant is commonly used for beer making, and may also help 
 **Pot:** 6" nursery pot \
 This plant requires open ground to germinate and is thus not typically very invasive, but if you live in a plains area or anywhere with wide-open area, please consider checking with your state or country's department of agriculture to ensure they are not considereed a noxious weed or otherwise need quarantine. (Fun fact: each plant can produce 100,000-240,000 seeds!)
 
-I've seen pictures of this plant but I still didn't expect it to be so fun! The leaves are broad and very, very fuzzy - a general joy to touch. This plant has been EXPLODING with growth lately, so I am going to need to find a nice big pot to put it in. These guys grow to be 2-7 feet tall, and 1-3 feet wide, so I have my work cut out for me, hah.
-
-## Radish, Japanese Wasabi
-**Latin Name:** *Raphanus sativus* \
-**Planted:** April 20, 2024 🌿 \
-**Sprouted:** April 22, 2024 \
-**Potted:** April 26, 2024 \
-**Pot:** 6" nursey pot \
-**Type:** Soil sow in a grow tray on heating pad \
-I currently have 4 cells of these, all which have sprouted at time of publishing. These were the gift seeds from Rare Seeds for ordering >$10 on an order, and I was so delighted to see these as I had considered ordering these as well as everything else. The flavor of this radish is said to be close to that of wasabi or horseradish root.
-
-## St. John's Wort
-**Latin Name:** *Hypericum perforatum* \
-**Planted:** April 7, 2024 \
-**Sprouted:** April 20, 2024 🌿 \
-**Potted:** May 21, 2024 \
-**Pot:** 6" nursery pot \
-**Type:** Soil sow in grow tray on heating pad \
-I currently have four cells I am attempting to germinate. I have attempted these in the past and have not had luck with them, but we do not get anywhere by giving up! This is my second attempt at these and it's paid off. :> The singular plant that managed to sprout was finally large enough and established enough for me to be comfortable transplanting over to a pot.
+I've seen pictures of this plant but I still didn't expect it to be so fun! The leaves are broad and very, very fuzzy - a general joy to touch. This plant has been EXPLODING with growth lately, so I am going to need to find a nice big pot to put it in. These guys grow to be 2-7 feet tall, and 1-3 feet wide, so I have my work cut out for me, hah. It is a very happy plant.
 
 ## String of Turtles
 **Latin Name:** *Peperomia prostrata* \
@@ -316,28 +258,9 @@ I currently have four cells I am attempting to germinate. I have attempted these
 **Pot:** Hanging pot from store \
 I've always wanted one of these plants because I find them to just be the cutest things on the face of the planet and I've always, always, always wanteed one. I have it hanging in my office window where it gets moderate sun and a lot of indirect light. We'll see how it fares with the cats, and I'll move it if I have to. (So far the cats haven't seemed to view it as a toy, so that's a **huge** bonus.)
 
-## Sweet Pepper, Shishito
-**Latin Name:** *Capsicum annuum* \
-**Planted:** April 20, 2024 🌿 \
-**Sprouted:** April 26, 2024 \
-**Potted:** May 15, 2024 \
-**Pot:** 6" nursery pot \
-**Type:** Soil sow in a grow tray on heating pad \
-A Japanese variety of peppers that are typically sweeter and very mildly spicy. I have two cells that I am currently trying to sprout. They are doing very, very well and I am currently waiting for them to be strong enough to move to a large enough pot for them.
-
 ## Valerian
 **Latin Name:** *Valeriana officinalis* \
 **Type:** Perennial \
 **Potted:** January 2024 \
 **Pot:** 6" nursery pot \
 Valerian is a plant that I've seen without know what I was looking at, and I'm rather excited to grow it and see it flower. I'm sure that the variety I have is a white valerian, but gosh I'd love to have gotten a pink or red variety - maybe in the future! This is another one that has been growing a lot more slowly than I expected, but it's still chugging along and doing well despite my general nervousness.
-
-## Yarrow
-**Latin Name:** *Archillea millefolium* \
-**Type:** Perennial \
-**Potted:** January 2024 \
-**Pot:** 6" nursery pot \
-**This plant is toxic to cats, dogs, and horses, an can aggravate hayfever in some individuals. This plant can also easily become invasive,** so if you wish to grow it please check your state or country's department of agriculture to ensure they are not considereed a noxious weed or otherwise need quarantine.
-
-This plant is more slow-growing than the others I have potted, but it started doing *very* well once I switched to the plant shelves and swapped out my grow lights. I wonder if it wasn't quite getting enough light in the old setup because I had to adjust the light height based on the taller plants. The leaves on it are all very cute and I'm very happy with it thus far!
-

@@ -39,31 +39,27 @@ Campaigns are listed in order of start date, so the longest-running campaigns ar
 **System:** Cyberpunk RED \
 **DM:** Ceildread \
 **Start Date:** January 19, 2023 \
-**Character:** Emerick Kline; 5 Media
+**Character:** Emerick Kline; 5 Media, 3 Exec
 
 *Danse Macabre* \
 **System:** Dungeons & Dragons 5E -> Pathfinder 2E \
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** January 22, 2023 \
-**Character:** Arythas Ialdethish; Silver Dragon Battle Oracle
-
-*Gatewalkers* \
-**System:** Pathfinder 2E (Adventure Path) \
-**DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
-**Start Date:** May 20, 2023 \
-**Character:** Killian; Toy Poppet Betrayal Warlock (homebrew) -> Resentment Witch
+**Character:** Arythas Ialdethish; Silver Dragon Guardian
 
 *Seal of Infinity* \
 **System:** Pathfinder 2E \
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** June 26, 2023 \
-**Character:** Faylen; Changeling Elf Laughing Shadow Magus
+**Character:** Faylen; Changeling Elf Analyst Witchwarper (SF2E class)
+**Previously:** Laughing Shadow Magus
 
-*Strahd Has Risen From the Grave* \
-**System:** Pathfinder 2E \
-**DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
-**Start Date:** May 18, 2024 \
-**Character:** Atheya; Dhampir Elf Life Oracle
+*The Withering Heart* \
+**System:** Vampire the Masquerade 5E \
+**DM:** Ceildread \
+**Start Date:**  April 17, 2026 \
+**Character:** Lorn; Gen 12 Tremere \ 
+**Discipline Focus:** Blood Sorcery, Auspex
 
 ## Inactive Campaigns
 *Aestall* \
@@ -71,3 +67,24 @@ Campaigns are listed in order of start date, so the longest-running campaigns ar
 **DM:** a personal friend \
 **Status:** Completed \
 **Character:** Charbryn Nago; Drow Horizonwalker Ranger
+
+*Strahd Has Risen From the Grave* \
+**System:** Pathfinder 2E \
+**DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
+**Start Date:** May 18, 2024 \
+**Discontinued Date:** March 22, 2025 \
+**Character:** Atheya; Dhampir Elf Life Oracle
+
+*Gatewalkers* \
+**System:** Pathfinder 2E (Adventure Path) \
+**DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
+**Start Date:** May 20, 2023 \
+**Discontinued Date:** March 22, 2025 \
+**Character:** Killian; Toy Poppet Betrayal Warlock (homebrew) -> Resentment Witch
+
+*Danse Macabre: Blast to the Past* \
+**System:** Dungeons & Dragons 5E -> Pathfinder 2E \
+**DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
+**Start Date:** June 1, 2025 \
+**Completed On:** November 30, 2025 \
+**Character:** Arythas Ialdethish; Silver Dragon Battle Oracle

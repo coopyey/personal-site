@@ -14,16 +14,11 @@ url = "/ttrpg-campaigns/"
 weight = 1
 
 [[menu.main]]
-name = "plants"
-url = "/plants/"
-weight = 1
-
-[[menu.main]]
 name = "artists"
 url = "/artists/"
 weight = 1
 
-[[menu.main]]
-name = "recipes"
-url = "/food/"
+[[main.menu]]
+name = "paper"
+url = "/papercraft/"
 weight = 1

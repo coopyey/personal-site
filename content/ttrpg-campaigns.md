@@ -51,14 +51,14 @@ Campaigns are listed in order of start date, so the longest-running campaigns ar
 **System:** Pathfinder 2E \
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** June 26, 2023 \
-**Character:** Faylen; Changeling Elf Analyst Witchwarper (SF2E class)
+**Character:** Faylen; Changeling Elf Analyst Witchwarper (SF2E class) \
 **Previously:** Laughing Shadow Magus
 
 *The Withering Heart* \
 **System:** Vampire the Masquerade 5E \
 **DM:** Ceildread \
 **Start Date:**  April 17, 2026 \
-**Character:** Lorn; Gen 12 Tremere \ 
+**Character:** Lorn; Gen 12 Tremere \
 **Discipline Focus:** Blood Sorcery, Auspex
 
 ## Inactive Campaigns

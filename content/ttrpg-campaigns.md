@@ -66,7 +66,8 @@ Campaigns are listed in order of start date, so the longest-running campaigns ar
 **System:** Dungeons & Dragons 5E \
 **DM:** a personal friend \
 **Status:** Completed \
-**Character:** Charbryn Nago; Drow Horizonwalker Ranger
+**Character:** Charbryn Nago; Drow Horizonwalker Ranger \
+**Additional:** <a href="https://maiddog.com/aestall-net/" target="_blank">Relationship Web</a>
 
 *Strahd Has Risen From the Grave* \
 **System:** Pathfinder 2E \

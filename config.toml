@@ -25,3 +25,9 @@ unsafe=true
     pageRef = "paper"
     url = "/papercraft/"
     weight = 30
+
+[[menu.main]]
+    name = "journals"
+    pageRef = "journals"
+    url = "/journaling/"
+    weight = 40

@@ -2,16 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/artists/</loc>
+    <loc>https://coopyey.gay/artists/</loc>
   </url><url>
-    <loc>http://localhost:1313/papercraft/</loc>
+    <loc>https://coopyey.gay/journals/</loc>
   </url><url>
-    <loc>http://localhost:1313/ttrpg-campaigns/</loc>
+    <loc>https://coopyey.gay/papercraft/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://coopyey.gay/ttrpg-campaigns/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://coopyey.gay/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://coopyey.gay/</loc>
+  </url><url>
+    <loc>https://coopyey.gay/tags/</loc>
   </url>
 </urlset>

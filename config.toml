@@ -9,16 +9,19 @@ unsafe=true
 
 # Add menu links to things from /content/ here (eg. markdown.md)
 [[menu.main]]
-name = "ttrpg"
-url = "/ttrpg-campaigns/"
-weight = 1
+    name = "ttrpg"
+    pageRef = "ttrpg"
+    url = "/ttrpg-campaigns/"
+    weight = 20
 
 [[menu.main]]
-name = "artists"
-url = "/artists/"
-weight = 1
+    name = "artists"
+    pageRef = "artists"
+    url = "/artists/"
+    weight = 10
 
-[[main.menu]]
-name = "paper"
-url = "/papercraft/"
-weight = 1
+[[menu.main]]
+    name = "paper"
+    pageRef = "paper"
+    url = "/papercraft/"
+    weight = 30

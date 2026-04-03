@@ -17,7 +17,6 @@ Mostly does fantasy humanoids (humans, elves, mi'qote, etc) in a painterly style
 
 <i></i>
 
-
 ## Megu
 <a href="https://megueggu.weebly.com/" target="_blank">Found here!</a>
 

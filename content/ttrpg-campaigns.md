@@ -88,4 +88,4 @@ Campaigns are listed in order of start date, so the longest-running campaigns ar
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** June 1, 2025 \
 **Completed On:** November 30, 2025 \
-**Character:** Arythas Ialdethish; Silver Dragon Battle Oracle
+**Character:** Nymnar Gloomstrider; Wisp Fetchling Spirit Monger Necromancer

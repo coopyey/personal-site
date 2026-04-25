@@ -45,7 +45,8 @@ Campaigns are listed in order of start date, so the longest-running campaigns ar
 **System:** Dungeons & Dragons 5E -> Pathfinder 2E \
 **DM:** <a href="https://startplaying.games/gm/alanofalltrades" target="_blank">Alan</a> \
 **Start Date:** January 22, 2023 \
-**Character:** Arythas Ialdethish; Silver Dragon Guardian
+**Character:** Arythas Ialdethish; Silver Dragon Guardian \
+**Second Character:** Vlaka; Drone Mechanic with Anomaly Witchwarper Archetype
 
 *Seal of Infinity* \
 **System:** Pathfinder 2E \
